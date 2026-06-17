@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/bristol_esoterica.png # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://bristol-esoterica-fans.github.io" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
