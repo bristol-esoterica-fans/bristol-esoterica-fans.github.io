@@ -10,9 +10,9 @@ The **Bristol Esoterica Fan Club** is a gathering place for true enthusiasts of 
 
 Come here to get the latest, hottest goss, on the boldest most cutting edge ascents and DNFs in the wider Bristol choss wrestling area. 
 
-It's all happening, lime stone, crimps, nettles, poor memory of beta, limestone. 
+It's all happening, limestone, crimps, nettles, poor memory of beta, limestone. 
 
 
 **Find us:**
 
-- probably.fallingoff@lionrock.com
+- At cheddar

@@ -2,12 +2,8 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: With thanks to the walkers, climbers, cavers and quiet enthusiasts of the Bristol Esoterica Fan Club who keep the routes trodden and the lore alive.
+excerpt: Thanks to all the people out there on the beautiful summer evenings, revving their cars and honking their vapes. We couldn't do it without you. 
 comments: false
 ---
 
-With thanks to the walkers, climbers, cavers and quiet enthusiasts of the Bristol Esoterica Fan Club — those who keep the routes trodden, the conversations late, and the lore of Cheddar Gorge alive.
-
-<hr>
-
-May the things we find on the cliffs and in the combes be useful to whoever comes after us.
+Thanks also to Oscar Poppels, always in our hearts. 
