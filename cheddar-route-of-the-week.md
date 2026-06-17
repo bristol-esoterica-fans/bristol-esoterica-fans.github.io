@@ -16,7 +16,7 @@ comments: false
 {%- assign index = week_number | modulo: routes.size -%}
 {%- assign route = routes[index] -%}
 
-This week's pick, hand drawn from local cheddar wad Alban's [Road to gunfigher list] (https://www.ukclimbing.com/logbook/ticklists/road_to_gunfighter-9649)(week {{ week_number | modulo: 52 | plus: 1 }}):
+This week's pick, hand drawn from local cheddar wad Alban's **[Road to gunfigher list](https://www.ukclimbing.com/logbook/ticklists/road_to_gunfighter-9649)**(week {{ week_number | modulo: 52 | plus: 1 }}):
 
 ## {{ route.name }}
 
