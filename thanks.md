@@ -2,12 +2,12 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: With thanks to the walkers, climbers, cavers and quiet enthusiasts of the Bristol Esoterica Fan Club who keep the routes trodden and the lore alive.
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+With thanks to the walkers, climbers, cavers and quiet enthusiasts of the Bristol Esoterica Fan Club — those who keep the routes trodden, the conversations late, and the lore of Cheddar Gorge alive.
 
 <hr>
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+May the things we find on the cliffs and in the combes be useful to whoever comes after us.

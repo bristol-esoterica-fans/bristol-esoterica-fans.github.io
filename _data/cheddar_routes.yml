@@ -1,0 +1,418 @@
+# Cheddar Gorge route list
+# Route names, grades and star ratings are public guidebook facts.
+# `your_note` is left blank for the club to fill in per pick.
+# `length` is null where the source listed it as unknown ("?").
+# `ascents` is the logbook tally supplied with the list.
+#
+# Credit the original ticklist compiler here:
+# list_credit: "Selection compiled by <name>, used with permission"
+
+list_credit: "TODO: add credit for the ticklist compiler"
+
+routes:
+  - name: "Raw Deal"
+    grade: "7a"
+    stars: 3
+    side: "North"
+    length: null
+    ascents: 1228
+    your_note: ""
+  - name: "Insatiable"
+    grade: "7b+"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 465
+    your_note: ""
+  - name: "Seven Months Later"
+    grade: "7c"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 167
+    your_note: ""
+  - name: "Joyride"
+    grade: "7a"
+    stars: 1
+    side: "North"
+    length: null
+    ascents: 307
+    your_note: ""
+  - name: "Ya-Boo Yorkie!"
+    grade: "7b+"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 26
+    your_note: ""
+  - name: "Get That Man"
+    grade: "7a+"
+    stars: 3
+    side: "South"
+    length: null
+    ascents: 474
+    your_note: ""
+  - name: "Barbarian"
+    grade: "7b+"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 156
+    your_note: ""
+  - name: "Ripe Old Age"
+    grade: "7b"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 124
+    your_note: ""
+  - name: "Whippersnappers"
+    grade: "7a+"
+    stars: 1
+    side: "South"
+    length: null
+    ascents: 151
+    your_note: ""
+  - name: "All Hands to the Pump"
+    grade: "7b"
+    stars: 2
+    side: "North"
+    length: "12m"
+    ascents: 541
+    your_note: ""
+  - name: "Screwballed!"
+    grade: "7a"
+    stars: 2
+    side: "North"
+    length: "12m"
+    ascents: 643
+    your_note: ""
+  - name: "Playboys"
+    grade: "7b+"
+    stars: 2
+    side: "North"
+    length: "12m"
+    ascents: 268
+    your_note: ""
+  - name: "Shakin' Like a Leaf"
+    grade: "7a"
+    stars: 3
+    side: "South"
+    length: null
+    ascents: 639
+    your_note: ""
+  - name: "Still Waters Run Deep"
+    grade: "7b"
+    stars: 3
+    side: "South"
+    length: null
+    ascents: 324
+    your_note: ""
+  - name: "Sherryland"
+    grade: "7a+"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 146
+    your_note: ""
+  - name: "Dada"
+    grade: "7a"
+    stars: 1
+    side: "South"
+    length: null
+    ascents: 120
+    your_note: ""
+  - name: "Shangri-La"
+    grade: "7b+"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 128
+    your_note: ""
+  - name: "House Burning Down"
+    grade: "7b+"
+    stars: 3
+    side: "North"
+    length: null
+    ascents: 433
+    your_note: ""
+  - name: "Sing a Mean Toon, Kid"
+    grade: "7b+"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 164
+    your_note: ""
+  - name: "Gubia"
+    grade: "7b+"
+    stars: 3
+    side: "North"
+    length: null
+    ascents: 85
+    your_note: ""
+  - name: "Bikini Amber"
+    grade: "7a+"
+    stars: 1
+    side: "North"
+    length: null
+    ascents: 73
+    your_note: ""
+  - name: "Speedfreak"
+    grade: "7a+"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 300
+    your_note: ""
+  - name: "Shock of the New"
+    grade: "7b+"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 230
+    your_note: ""
+  - name: "Mendipian Way"
+    grade: "7a+"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 259
+    your_note: ""
+  - name: "Mercurian Sump Dweller"
+    grade: "7b+"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 82
+    your_note: ""
+  - name: "The Darkness Beckons"
+    grade: "7a+"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 135
+    your_note: ""
+  - name: "Pirates of Lamb Leer"
+    grade: "7a"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 189
+    your_note: ""
+  - name: "Zoot Horn Rollo"
+    grade: "7a+"
+    stars: 1
+    side: "South"
+    length: null
+    ascents: 31
+    your_note: ""
+  - name: "Postcard from Titan"
+    grade: "7b"
+    stars: 2
+    side: "South"
+    length: "20m"
+    ascents: 22
+    your_note: ""
+  - name: "Captain Morgan"
+    grade: "7b"
+    stars: 1
+    side: "South"
+    length: null
+    ascents: 10
+    your_note: ""
+  - name: "Starscape"
+    grade: "7b+"
+    stars: 3
+    side: "South"
+    length: null
+    ascents: 59
+    your_note: ""
+  - name: "Farewell to the Working Classes"
+    grade: "7a+"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 79
+    your_note: ""
+  - name: "Valley of the Blind"
+    grade: "7c"
+    stars: 3
+    side: "North"
+    length: null
+    ascents: 288
+    your_note: ""
+  - name: "Human Zoo"
+    grade: "7c"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 198
+    your_note: ""
+  - name: "It's a Kind of Magic"
+    grade: "7a+"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 735
+    your_note: ""
+  - name: "Everyday Lives of Ordinary People"
+    grade: "7c"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 301
+    your_note: ""
+  - name: "The Everyday Life of Skulduggery"
+    grade: "7c"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 19
+    your_note: ""
+  - name: "Skullduggery"
+    grade: "7b"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 549
+    your_note: ""
+  - name: "Spy in the Sky"
+    grade: "7b"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 314
+    your_note: ""
+  - name: "Fettered Trajectory"
+    grade: "7b+"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 140
+    your_note: ""
+  - name: "Driller Killer, Q'est-ce Que C'est?"
+    grade: "7c"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 60
+    your_note: ""
+  - name: "Mescalito"
+    grade: "7c"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 169
+    your_note: ""
+  - name: "Cryogenics"
+    grade: "7a+"
+    stars: 2
+    side: "North"
+    length: null
+    ascents: 210
+    your_note: ""
+  - name: "Bluepoint"
+    grade: "7a+"
+    stars: 1
+    side: "North"
+    length: null
+    ascents: 177
+    your_note: ""
+  - name: "The Harder They Fall"
+    grade: "7b+"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 38
+    your_note: ""
+  - name: "Sidekick"
+    grade: "7a"
+    stars: 1
+    side: "South"
+    length: "12m"
+    ascents: 177
+    your_note: ""
+  - name: "The Harder They Come"
+    grade: "7c"
+    stars: 1
+    side: "South"
+    length: "20m"
+    ascents: 10
+    your_note: ""
+  - name: "Fax Your Face from the Afterlife"
+    grade: "7b+"
+    stars: 1
+    side: "South"
+    length: "18m"
+    ascents: 9
+    your_note: ""
+  - name: "Lost Cause"
+    grade: "7a+"
+    stars: 1
+    side: "South"
+    length: null
+    ascents: 48
+    your_note: ""
+  - name: "Pipped at the Post"
+    grade: "7b"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 28
+    your_note: ""
+  - name: "Sunnyside Up"
+    grade: "7a"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 276
+    your_note: ""
+  - name: "Sheer Lunacy"
+    grade: "7b"
+    stars: 1
+    side: "South"
+    length: null
+    ascents: 109
+    your_note: ""
+  - name: "Croaking in Woking"
+    grade: "7a"
+    stars: 1
+    side: "South"
+    length: null
+    ascents: 159
+    your_note: ""
+  - name: "A Simple Tale"
+    grade: "7b"
+    stars: 1
+    side: "South"
+    length: "18m"
+    ascents: 46
+    your_note: ""
+  - name: "Thermopylae"
+    grade: "7b"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 44
+    your_note: ""
+  - name: "Ho, Ho, Ho"
+    grade: "7a"
+    stars: 2
+    side: "South"
+    length: null
+    ascents: 38
+    your_note: ""
+  - name: "Follow the Slick Red Road (to Gdansk)"
+    grade: "7c"
+    stars: 0
+    side: "South"
+    length: null
+    ascents: 175
+    your_note: ""
+  - name: "Cream Tease"
+    grade: "7b"
+    stars: 1
+    side: "South"
+    length: null
+    ascents: 102
+    your_note: ""

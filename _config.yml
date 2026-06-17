@@ -1,8 +1,7 @@
 # Site settings
-title: Klise Theme # site title
+title: Bristol Esoterica Fan club # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  A place for true enthusiasts of Esoterica in the wider Bristol area (Cheddar Gorge)
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -11,10 +10,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Bristol Esoterica Fan club # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    A place for true enthusiasts of Esoterica in the wider Bristol area (Cheddar Gorge)
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username

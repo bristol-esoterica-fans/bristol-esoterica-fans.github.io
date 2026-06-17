@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: The Bristol Esoterica Fan Club — for true enthusiasts of the esoteric in the wider Bristol area, with a particular fondness for Cheddar Gorge.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+The **Bristol Esoterica Fan Club** is a gathering place for true enthusiasts of the esoteric across the wider Bristol area — and, above all, in and around Cheddar Gorge.
 
-If you have a question about him or else, just send a letter to him.
+Come here to get the latest, hottest goss, on the boldest most cutting edge ascents and DNFs in the wider Bristol choss wrestling area. 
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+It's all happening, lime stone, crimps, nettles, poor memory of beta, limestone. 
 
-**may u needs ✨**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+**Find us:**
+
+- probably.fallingoff@lionrock.com
